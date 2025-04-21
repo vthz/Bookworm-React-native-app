@@ -1,1 +1,1 @@
-export const API_URL = "http://192.168.1.9:3001/api"; // Replace with your actual API URL
+export const API_URL = "http://192.168.1.2:3001/api"; // Replace with your actual API URL
